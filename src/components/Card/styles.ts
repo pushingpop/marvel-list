@@ -1,9 +1,9 @@
-import styled from 'styled-components/native'
+import styled from 'styled-components/native';
 
 export const Container = styled.View`
   align-items: center;
   padding: 8px;
-  width: 50%
+  width: 50%;
 `;
 
 export const Text = styled.Text`
