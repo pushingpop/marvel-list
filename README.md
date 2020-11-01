@@ -1,4 +1,4 @@
-<b>Listar Heróis que iniciam com a letra A</b>
+<b>Lista Heróis que iniciam com a letra A</b> utilizando infinite scroll
 
 <h1>Como usar</h1>
 
